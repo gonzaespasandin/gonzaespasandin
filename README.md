@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/gonzaespasandin">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=720&lines=%C2%A1Hola%2C+soy+Gonzalo+Espasandin!+%F0%9F%91%8B;Hi%2C+I'm+Gonzalo+Espasandin!+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Laravel+%2B+Vue+lover+%E2%9D%A4%EF%B8%8F;Welcome+to+my+GitHub+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Gonzalo+Espasandin!+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Laravel+%2B+Vue+lover+%E2%9D%A4%EF%B8%8F;Welcome+to+my+GitHub+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -13,26 +13,7 @@
 
 <br/>
 
-## 🧑‍💻 Sobre mí / About me
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🇦🇷 Español
-
-Soy **Desarrollador Full-Stack** con más de **3 años** de experiencia diseñando y construyendo aplicaciones web de punta a punta.
-
-- 💼 Actualmente en **[Dayco Gaming](https://dayco.com.ar)** desde 02/2024
-- 🎓 Técnico Superior en Desarrollo y Diseño Web — **Escuela Da Vinci** (promedio **9.50**, graduación 03/2026)
-- ❤️ Mi stack favorito: **Laravel + Vue.js**
-- 🌱 También trabajo con **Node, React, TypeScript** y exploro mucho **IA con Claude**
-- 📍 Buenos Aires, Argentina
-
-</td>
-<td width="50%" valign="top">
-
-### 🇺🇸 English
+## 🧑‍💻 About me
 
 I'm a **Full-Stack Developer** with **3+ years** of experience designing and building end-to-end web applications.
 
@@ -42,15 +23,11 @@ I'm a **Full-Stack Developer** with **3+ years** of experience designing and bui
 - 🌱 Also working with **Node, React, TypeScript** and exploring **AI with Claude**
 - 📍 Buenos Aires, Argentina
 
-</td>
-</tr>
-</table>
-
 <br/>
 
 ## 🛠️ Tech Stack
 
-#### ❤️ Mis favoritos / My favorites
+#### ❤️ My favorites
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="34"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" height="34"/>
@@ -78,7 +55,7 @@ I'm a **Full-Stack Developer** with **3+ years** of experience designing and bui
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
-#### 🗄️ Bases de datos & Servicios / Databases & Services
+#### 🗄️ Databases & Services
 <p>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -88,7 +65,7 @@ I'm a **Full-Stack Developer** with **3+ years** of experience designing and bui
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
 </p>
 
-#### 🧰 Herramientas / Tools
+#### 🧰 Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -98,14 +75,14 @@ I'm a **Full-Stack Developer** with **3+ years** of experience designing and bui
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-#### 🎨 Diseño / Design
+#### 🎨 Design
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
 </p>
 
-#### 🤖 IA / AI
+#### 🤖 AI
 <p>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white"/>
@@ -115,15 +92,15 @@ I'm a **Full-Stack Developer** with **3+ years** of experience designing and bui
 
 <br/>
 
-## 🚀 Proyectos destacados / Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
 ### 🩺 Ophi
-App móvil que escanea códigos de barras de productos y, según el perfil médico del usuario, indica si es apto para su consumo o el de un familiar.
-**Tesis final** — Escuela Da Vinci.
+A mobile app that scans product barcodes and — based on the user's medical profile — tells whether the product is safe for them or a family member to consume.
+**Final thesis project** — Escuela Da Vinci.
 
 `Laravel` · `Vue.js` · `REST API`
 
@@ -133,17 +110,17 @@ App móvil que escanea códigos de barras de productos y, según el perfil médi
 <td width="33%" valign="top">
 
 ### 🎟️ Termy
-Sistema de gestión de turnos con integración a **tótem físico**. Backend en Laravel (MVC, REST, Sanctum), frontend en Vue, microservicio en Python para impresión.
+Queue management system with **physical kiosk** integration. Laravel backend (MVC, REST, Sanctum), Vue frontend, and a Python microservice handling kiosk printing.
 
 `Laravel` · `Vue.js` · `Sanctum` · `Python` · `SQL`
 
-🔗 [Ver más](https://dayco.com.ar/productos/2)
+🔗 [Learn more](https://dayco.com.ar/productos/2)
 
 </td>
 <td width="33%" valign="top">
 
 ### 🎰 Dayco Gaming
-Sitio corporativo y plataforma de soluciones tecnológicas a medida. Desarrollo full-stack, integración con servicios externos y gestión de BD.
+Corporate website and custom software platform. Full-stack development, third-party integrations and database management.
 
 `Laravel` · `Vue.js` · `MySQL`
 
@@ -155,20 +132,17 @@ Sitio corporativo y plataforma de soluciones tecnológicas a medida. Desarrollo 
 
 <br/>
 
-## 📊 GitHub Stats
+## 🏅 Certifications
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gonzaespasandin&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzaespasandin&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gonzaespasandin&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<p>
+  <a href="https://verify.skilljar.com/c/xcrf2ryr85ri"><img src="https://img.shields.io/badge/Claude_Code_in_Action-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code in Action"/></a>
+  <a href="https://verify.skilljar.com/c/meetoop3dgim"><img src="https://img.shields.io/badge/Claude_101-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude 101"/></a>
+  <img src="https://img.shields.io/badge/Digital_Business_Development_Assistant-E63946?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Escuela Da Vinci"/>
 </p>
 
 <br/>
 
-## 🐍 Contribuciones / Contributions
+## 🐍 Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gonzaespasandin/gonzaespasandin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
@@ -176,18 +150,8 @@ Sitio corporativo y plataforma de soluciones tecnológicas a medida. Desarrollo 
 
 <br/>
 
-## 🏅 Certificaciones / Certifications
-
-<p>
-  <a href="https://verify.skilljar.com/c/xcrf2ryr85ri"><img src="https://img.shields.io/badge/Claude_Code_in_Action-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code in Action"/></a>
-  <a href="https://verify.skilljar.com/c/meetoop3dgim"><img src="https://img.shields.io/badge/Claude_101-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude 101"/></a>
-  <img src="https://img.shields.io/badge/Desarrollo_y_Nuevos_Negocios_Digitales-E63946?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Escuela Da Vinci"/>
-</p>
-
-<br/>
-
 <p align="center">
-  <i>✨ Gracias por pasar por mi perfil — Thanks for visiting! ✨</i>
+  <i>✨ Thanks for visiting! ✨</i>
 </p>
 
 <p align="center">
