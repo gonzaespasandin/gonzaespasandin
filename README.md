@@ -122,7 +122,7 @@ Queue management system with **physical kiosk** integration. Laravel backend (MV
 ### 🎰 Dayco Gaming
 Corporate website and custom software platform. Full-stack development, third-party integrations and database management.
 
-`Laravel` · `Vue.js` · `MySQL`
+`Node.js` · `React.js` · `MySQL`
 
 🔗 [dayco.com.ar](https://dayco.com.ar)
 
